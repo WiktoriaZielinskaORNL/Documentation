@@ -4,14 +4,14 @@ _Last Edited: [Date]_
 ---
 
 ## Table of Contents  
-1. [ServiceNow Ticket Dashboard](#servicenow-ticket-dashboard)  
-2. [Alternative Contacts](#alternative-contacts)  
-3. [Location](#location)  
-4. [Terms & Abbreviations](#terms--abbreviations)  
-5. [Who, What, When, Where, Why](#who-what-when-where-why)  
-6. [Jump Servers](#jump-servers)  
-7. [Common Issues & Troubleshooting](#common-issues--troubleshooting)  
-8. [Primary Contacts](#primary-contacts)  
+1. [ServiceNow Ticket Dashboard](#servicenow-ticket-dashboard)
+2. [Primary Contacts](#primary-contacts)  
+3. [Alternative Contacts](#alternative-contacts)  
+4. [Location](#location)  
+5. [Terms & Abbreviations](#terms--abbreviations)  
+6. [Who, What, When, Where, Why](#who-what-when-where-why)  
+7. [Jump Servers](#jump-servers)  
+8. [Common Issues & Troubleshooting](#common-issues--troubleshooting)  
 9. [System Dependencies](#system-dependencies)  
 10. [End-User Documentation](#end-user-documentation)  
 11. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
