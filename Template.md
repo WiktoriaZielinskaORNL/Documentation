@@ -11,12 +11,13 @@ _Last Edited: [Date]_
 5. [Location](#location)  
 6. [Terms & Abbreviations](#terms--abbreviations)  
 7. [Jump Servers](#jump-servers)  
-8. [Common Issues & Troubleshooting](#common-issues--troubleshooting)  
-9. [System Dependencies](#system-dependencies)  
-10. [End-User Documentation](#end-user-documentation)  
-11. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
-12. [User Onboarding & Offboarding Procedures](#user-onboarding--offboarding-procedures)  
-13. [Additional Notes](#additional-notes)  
+8. [Common Issues & Troubleshooting](#common-issues--troubleshooting)
+9. [Tools Installed](#tools-installed)
+10. [System Dependencies](#system-dependencies)  
+11. [End-User Documentation](#end-user-documentation)  
+12. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
+13. [User Onboarding & Offboarding Procedures](#user-onboarding--offboarding-procedures)  
+14. [Additional Notes](#additional-notes)  
 
 ---
 
