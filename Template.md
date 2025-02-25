@@ -10,15 +10,14 @@ _Last Edited: [Date]_
 4. [Terms & Abbreviations](#terms--abbreviations)  
 5. [Who, What, When, Where, Why](#who-what-when-where-why)  
 6. [Jump Servers](#jump-servers)  
-7. [Servers Managed](#servers-managed)  
-8. [Common Issues & Troubleshooting](#common-issues--troubleshooting)  
-9. [ServiceNow Ticket Dashboard](#servicenow-ticket-dashboard)  
-10. [Forms/Templates](#forms-templates)  
-11. [System Dependencies](#system-dependencies)  
-12. [End-User Documentation](#end-user-documentation)  
-13. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
-14. [User Onboarding & Offboarding Procedures](#user-onboarding--offboarding-procedures)  
-15. [Additional Notes](#additional-notes)  
+7. [Common Issues & Troubleshooting](#common-issues--troubleshooting)  
+8. [ServiceNow Ticket Dashboard](#servicenow-ticket-dashboard)  
+9. [Forms/Templates](#forms-templates)  
+10. [System Dependencies](#system-dependencies)  
+11. [End-User Documentation](#end-user-documentation)  
+12. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
+13. [User Onboarding & Offboarding Procedures](#user-onboarding--offboarding-procedures)  
+14. [Additional Notes](#additional-notes)  
 
 ---
 
