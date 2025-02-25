@@ -12,12 +12,11 @@ _Last Edited: [Date]_
 6. [Jump Servers](#jump-servers)  
 7. [Common Issues & Troubleshooting](#common-issues--troubleshooting)  
 8. [ServiceNow Ticket Dashboard](#servicenow-ticket-dashboard)  
-9. [Forms/Templates](#forms-templates)  
-10. [System Dependencies](#system-dependencies)  
-11. [End-User Documentation](#end-user-documentation)  
-12. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
-13. [User Onboarding & Offboarding Procedures](#user-onboarding--offboarding-procedures)  
-14. [Additional Notes](#additional-notes)  
+9. [System Dependencies](#system-dependencies)  
+10. [End-User Documentation](#end-user-documentation)  
+11. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
+12. [User Onboarding & Offboarding Procedures](#user-onboarding--offboarding-procedures)  
+13. [Additional Notes](#additional-notes)  
 
 ---
 
