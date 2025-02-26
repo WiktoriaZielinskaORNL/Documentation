@@ -1,3 +1,7 @@
+1. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
+2. [User Onboarding & Offboarding Procedures](#user-onboarding--offboarding-procedures) 
+
+
 ## Key Performance Indicators (KPIs)  
 This section outlines the performance metrics that should be tracked to measure the system’s efficiency and effectiveness.
 
