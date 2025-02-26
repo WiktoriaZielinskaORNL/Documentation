@@ -9,13 +9,15 @@ _Last Edited: [Date]_
 3. [Primary Contacts](#primary-contacts)  
 4. [Alternative Contacts](#alternative-contacts)  
 5. [Location](#location)  
-6. [Terms & Abbreviations](#terms--abbreviations)  
-7. [Jump Servers](#jump-servers)  
-8. [Common Issues & Troubleshooting](#common-issues--troubleshooting)
-9. [Tools Installed](#tools-installed)
-10. [System Dependencies](#system-dependencies)  
-11. [End-User Documentation](#end-user-documentation)   
-12. [Additional Notes](#additional-notes)  
+6. [Configuration Management](#configuration-management)  
+7. [Environment Credentials](#environment-credentials)  
+8. [Terms & Abbreviations](#terms--abbreviations)  
+9. [Jump Servers](#jump-servers)  
+10. [Common Issues & Troubleshooting](#common-issues--troubleshooting)
+11. [Tools Installed](#tools-installed)
+12. [System Dependencies](#system-dependencies)  
+13. [End-User Documentation](#end-user-documentation)   
+14. [Additional Notes](#additional-notes)  
 
 ---
 
@@ -60,8 +62,23 @@ For managing support tickets and troubleshooting:
 ---
 
 ## Location  
-- **Data Center/Server Room Location:** [Address or Room #]  
+- **Data Center/Server Room Location:**  
+  - **Preferred:** [DCIM Links]  
+  - **Minimum:** [Address or Room #]  
 - **Access Instructions:** [Access details, e.g., keycard access, security protocol, etc.]
+
+---
+
+## Configuration Management  
+- **Description:**  
+  - [Brief description of the configuration management framework being used and where it runs.]  
+  - [Link to project-specific configuration management documentation if applicable.]
+
+---
+
+## Environment Credentials  
+- **Where are they?**  
+  - [Provide details on where environment credentials are stored, including any secure locations or systems used for credential management.]
 
 ---
 
